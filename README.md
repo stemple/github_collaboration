@@ -15,5 +15,6 @@
   <h1 class="display-4">Hello, world!</h1>
   <p class="lead">Here is the site to visit our GitHub page in the heading!</p>
   <hr class="my-4">
+    </div>
     </body>
 </html>
